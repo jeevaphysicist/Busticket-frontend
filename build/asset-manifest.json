@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fd8e77e.css",
+    "main.js": "/static/js/main.d98387f6.js",
+    "static/media/bus_icon1.jpeg": "/static/media/bus_icon1.ec621cb30875b9331673.jpeg",
+    "static/media/schoolbus.gif": "/static/media/schoolbus.37c332eb69c6995e5d8e.gif",
+    "static/media/bus1.jpeg": "/static/media/bus1.233bb1209a2357d53e4b.jpeg",
+    "static/media/busticket1.jpeg": "/static/media/busticket1.26c47d576b0fb7aa33b2.jpeg",
+    "static/media/bus-traveling.jpeg": "/static/media/bus-traveling.65e192fcdb105a6893c4.jpeg",
+    "index.html": "/index.html",
+    "main.8fd8e77e.css.map": "/static/css/main.8fd8e77e.css.map",
+    "main.d98387f6.js.map": "/static/js/main.d98387f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd8e77e.css",
+    "static/js/main.d98387f6.js"
+  ]
+}
